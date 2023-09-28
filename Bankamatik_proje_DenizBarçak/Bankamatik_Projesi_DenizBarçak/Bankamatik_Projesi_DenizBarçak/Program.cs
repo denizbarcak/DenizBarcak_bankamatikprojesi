@@ -539,7 +539,7 @@ namespace Bankamatik_Projesi_DenizBarçak
             {
             kartsızislemanamenu:
                 Console.WriteLine("---------------------\nKARTSIZ İŞLEM MENÜSÜ\n\n1.Cepbank para çekme\n2.Para yatırma\n3.Kredi kartı ödeme\n4.Eğitim ödemeleri\n5.Ödemeler\n6.Kartlı,kartsız işlem menüsü\n7.Çıkış");
-                Console.Write("Bir işlem seçiniz: ");
+                Console.Write("\nBir işlem seçiniz: ");
                 int kartsızislem = Convert.ToInt32(Console.ReadLine());
 
                 if (kartsızislem == 1) //CEPBANK PARA ÇEKME
