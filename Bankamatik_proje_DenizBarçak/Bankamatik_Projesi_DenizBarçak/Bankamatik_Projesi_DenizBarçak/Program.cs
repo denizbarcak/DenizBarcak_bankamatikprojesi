@@ -170,6 +170,10 @@ namespace Bankamatik_Projesi_DenizBarçak
                                 if (yatırılantutar > 0)
                                 {
                                     bakiye += yatırılantutar;
+                                    Console.WriteLine("Parayı yerleştiriniz...");
+                                    Thread.Sleep(1000);
+                                    Console.WriteLine("Teşekkürler...");
+                                    Thread.Sleep(1000);
                                     goto yatırma;
                                 }
                                 else if (yatırılantutar == 0)
@@ -628,7 +632,7 @@ namespace Bankamatik_Projesi_DenizBarçak
                     }
                     else if (hesapno == dhesapno && hesapno.Length == hesapnobeklenenhane)
                     {
-                        Console.Write("Lütfen tc kimlik numaranızı giriniz:");
+                        Console.Write("Lütfen tc kimlik numaranızı giriniz: TR");
                         string Tc = Console.ReadLine();
                         if (Tc == "0")
                         {
@@ -645,7 +649,9 @@ namespace Bankamatik_Projesi_DenizBarçak
                             else if (kartsizislemtutar > 0)
                             {
                                 bakiye += kartsizislemtutar;
-                                Console.WriteLine("İşleminiz tamamlandı...");
+                                Console.WriteLine("Parayı yerleştiriniz...");
+                                Thread.Sleep(1000);
+                                Console.WriteLine("Teşekkürler...");
                                 Thread.Sleep(1000);
                                 goto kartsızislemanamenu;
                             }
