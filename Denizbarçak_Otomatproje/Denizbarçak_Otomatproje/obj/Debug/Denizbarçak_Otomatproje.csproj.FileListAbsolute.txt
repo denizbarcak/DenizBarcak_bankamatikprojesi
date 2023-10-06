@@ -1,0 +1,7 @@
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\bin\Debug\Denizbarçak_Otomatproje.exe.config
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\bin\Debug\Denizbarçak_Otomatproje.exe
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\bin\Debug\Denizbarçak_Otomatproje.pdb
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\obj\Debug\Denizbarçak_Otomatproje.csproj.AssemblyReference.cache
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\obj\Debug\Denizbarçak_Otomatproje.csproj.CoreCompileInputs.cache
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\obj\Debug\Denizbarçak_Otomatproje.exe
+C:\Users\dbarc\OneDrive\Masaüstü\Bankamatik_proje_DenizBarçak\Denizbarçak_Otomatproje\Denizbarçak_Otomatproje\obj\Debug\Denizbarçak_Otomatproje.pdb
