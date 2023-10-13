@@ -1,0 +1,7 @@
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\obj\Debug\Deniz_Manavotomasyonu.csproj.AssemblyReference.cache
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\obj\Debug\Deniz_Manavotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\bin\Debug\Deniz_Manavotomasyonu.exe.config
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\bin\Debug\Deniz_Manavotomasyonu.exe
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\bin\Debug\Deniz_Manavotomasyonu.pdb
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\obj\Debug\Deniz_Manavotomasyonu.exe
+C:\Users\dbarc\source\repos\Deniz_Manavotomasyonu\Deniz_Manavotomasyonu\obj\Debug\Deniz_Manavotomasyonu.pdb
